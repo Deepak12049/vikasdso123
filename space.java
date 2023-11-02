@@ -80,11 +80,5 @@ public class space {
         }
 
            Thread.sleep(2000);
-        }
-    
-
-
-      
-    }
-
+        
     
